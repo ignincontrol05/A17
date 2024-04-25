@@ -21,10 +21,10 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["916297175943", "919362639362"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["916297175943", "919362639362"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["916297175943"];
-global.OwnerName = "Kai";
+global.Owner = ["919863840872", "916009516487"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["91983840872", "916009516487"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["919863840872"];
+global.OwnerName = "Kiyo kun";
 global.BotName = "A17";
 global.packname = "A17 Bot";                             //Do not change.
 global.author = "By: Kai";                               //Do not change.
@@ -41,9 +41,9 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "Tata City, India";
-global.reactmoji = "❤️";
-global.themeemoji = "💖";
+global.location = "Aizawl, Mizoram";
+global.reactmoji = "😌";
+global.themeemoji = "👏";
 global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/A17-Bot.mp4' };
 global.websitex = "https://github.com/Kai0071";
 global.lolhuman = "KaysaS";
